@@ -1,0 +1,15 @@
+This is a placeholder for Unity's EnvironmentSettings ScriptableObject asset.
+
+In Unity, create this ScriptableObject via:
+1. Create a new ScriptableObject class (EnvironmentSettings.cs)
+2. Right-click in Project > Create > City Shooter > Environment Settings
+
+The ScriptableObject should contain:
+- GLB Asset Path: map/source/town4new.glb
+- Textures Path: map/textures
+- Import Rotation: (-90, 0, 0) for Blender to Unity conversion
+- Generate Colliders: true
+- Mark as Static: true
+- NavMesh Agent Radius: 0.5
+- NavMesh Agent Height: 2.0
+- Max Slope: 45 degrees
