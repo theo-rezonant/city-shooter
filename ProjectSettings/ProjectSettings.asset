@@ -1,0 +1,221 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!129 &1
+PlayerSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 24
+  productGUID:
+  AndroidProfiler: 0
+  AndroidFilterTouchesWhenObscured: 0
+  AndroidEnableSustainedPerformanceMode: 0
+  productName: City Shooter
+  companyName: DefaultCompany
+  defaultCursor: {fileID: 0}
+  cursorHotspot: {x: 0, y: 0}
+  splashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
+  showUnitySplashScreen: 1
+  showUnitySplashLogo: 1
+  splashScreenOverlayOpacity: 1
+  splashScreenAnimation: 1
+  splashScreenLogoStyle: 1
+  splashScreenDrawMode: 0
+  enableVRMode: 0
+  useHDRDisplay: 0
+  D3DHDRBitDepth: 0
+  m_ColorGamuts: 00000000
+  targetDevice: 2
+  resolutionDialogBanner: {fileID: 0}
+  m_BuildTargetIcons: []
+  m_BuildTargetPlatformIcons: []
+  m_BuildTargetBatching: []
+  m_BuildTargetShaderSettings: []
+  m_BuildTargetGraphicsAPIs: []
+  m_BuildTargetVRSettings: []
+  m_VirtualRealitySplashScreen: {fileID: 0}
+  m_HolographicTrackingLossScreen: {fileID: 0}
+  defaultScreenWidth: 1920
+  defaultScreenHeight: 1080
+  defaultScreenWidthWeb: 960
+  defaultScreenHeightWeb: 600
+  m_StereoRenderingPath: 0
+  m_ActiveColorSpace: 1
+  m_ColorGamut: 1
+  m_MTRendering: 1
+  mipStripping: 0
+  numberOfMipsStripped: 0
+  m_StackTraceTypes: 010000000100000001000000010000000100000001000000
+  iosShowActivityIndicatorOnLoading: -1
+  androidShowActivityIndicatorOnLoading: -1
+  displayResolutionDialog: 0
+  allowedAutorotateToPortrait: 0
+  allowedAutorotateToPortraitUpsideDown: 0
+  allowedAutorotateToLandscapeRight: 1
+  allowedAutorotateToLandscapeLeft: 1
+  useOSAutorotation: 1
+  use32BitDisplayBuffer: 1
+  preserveFramebufferAlpha: 0
+  disableDepthAndStencilBuffers: 0
+  androidStartInFullscreen: 1
+  androidRenderOutsideSafeArea: 1
+  androidUseSwappy: 1
+  androidBlitType: 0
+  androidResizableWindow: 0
+  targetResolutionForVR: 0
+  gpuSkinning: 1
+  graphicsJobs: 0
+  graphicsJobsMode: 0
+  m_RequireES31: 0
+  m_RequireES31AEP: 0
+  m_RequireES32: 0
+  m_ApplicationIdentifier:
+    Standalone: com.DefaultCompany.CityShooter
+  buildNumber:
+    Standalone: 0
+  overrideDefaultApplicationIdentifier: 0
+  bundleVersion: 1.0
+  runInBackground: 1
+  captureSingleScreen: 0
+  muteOtherAudioSources: 0
+  Prepare IOS For Recording: 0
+  Force IOS Speakers When Recording: 0
+  deferSystemGesturesMode: 0
+  hideHomeButton: 0
+  submitAnalytics: 1
+  usePlayerLog: 1
+  bakeCollisionMeshes: 0
+  forceSingleInstance: 0
+  useFlipModelSwapchain: 1
+  resizableWindow: 0
+  useMacAppStoreValidation: 0
+  macAppStoreCategory: public.app-category.games
+  gpuSkinning: 1
+  xboxEnableKinect: 0
+  xboxEnableKinectAutoTracking: 0
+  xboxEnableHeadOrientation: 0
+  xboxDeployKinectResources: 0
+  xboxDeployKinectHeadPosition: 0
+  xboxDeployKinectHeadRotation: 0
+  ps4CameraResolution: 0
+  ps4VideoOutPixelFormat: 0
+  ps4VideoOutInitialWidth: 1920
+  ps4VideoOutBaseModeInitialWidth: 1920
+  ps4VideoOutReprojectionRate: 60
+  ps4PronunciationSIGID: 0
+  ps4BackgroundImagePath:
+  needsObbDecompressionSize: 0
+  allowedLicenses: 0
+  m_PreloadedAssets: []
+  metroInputSource: 0
+  wsaTransparentSwapchain: 0
+  m_HolographicPauseOnTrackingLoss: 1
+  xboxOneDisableKinectGpuReservation: 1
+  xboxOneEnableSpatialization: 1
+  windowsGamepadBackendHint: 0
+  vrSettings:
+    enable360StereoCapture: 0
+  isWsaHolographicRemotingEnabled: 0
+  scriptingDefineSymbols: {}
+  additionalCompilerArguments: {}
+  platformArchitecture: {}
+  scriptingBackend: {}
+  il2cppCompilerConfiguration: {}
+  il2cppCodeGeneration: {}
+  managedStrippingLevel: {}
+  incrementalIl2cppBuild: {}
+  suppressCommonWarnings: 1
+  allowUnsafeCode: 0
+  useDeterministicCompilation: 1
+  additionalIl2CppArgs:
+  scriptingRuntimeVersion: 1
+  gcIncremental: 1
+  gcWBarrierValidation: 0
+  apiCompatibilityLevelPerPlatform: {}
+  m_RenderingPath: 1
+  m_MobileRenderingPath: 1
+  metroPackageName: CityShooter
+  metroPackageVersion:
+  metroCertificatePath:
+  metroCertificatePassword:
+  metroCertificateSubject:
+  metroCertificateIssuer:
+  metroCertificateNotAfter: 0000000000000000
+  metroApplicationDescription: City Shooter
+  wsaImages: {}
+  metroTileShortName:
+  metroCommandLineArgsFile:
+  metroTileShowName: 0
+  metroMediumTileShowName: 0
+  metroWideTileShowName: 0
+  metroSupportStreamingInstall: 0
+  metroLastRequiredScene: 0
+  metroDefaultTileSize: 1
+  metroTileForegroundText: 2
+  metroTileBackgroundColor: {r: 0.13333334, g: 0.17254902, b: 0.21568628, a: 0}
+  metroSplashScreenBackgroundColor: {r: 0.12941177, g: 0.17254902, b: 0.21568628, a: 1}
+  splashScreenBackgroundSourceLandscape: {fileID: 0}
+  splashScreenBackgroundSourcePortrait: {fileID: 0}
+  blurSplashScreenBackground: 1
+  spritePackerPolicy:
+  textureImporter: {}
+  editorBuildSettings: {}
+  webGLThreadsSupport: 0
+  webGLExceptionSupport: 2
+  webGLNameFilesAsHashes: 0
+  webGLShowDiagnostics: 0
+  webGLDataCaching: 1
+  webGLDebugSymbolMode: 0
+  webGLEmscriptenArgs:
+  webGLModulesDirectory:
+  webGLTemplate: APPLICATION:Default
+  webGLAnalyzeBuildSize: 0
+  webGLMemorySize: 32
+  webGLCompressionFormat: 1
+  webGLWasmArithmeticExceptions: 0
+  webGLLinkerTarget: 1
+  webGLPowerPreference: 2
+  webGLInitialMemory: 32
+  webGLMaximumMemory: 2048
+  webGLMemoryGrowthMode: 2
+  scriptingDefineSymbols:
+    1:
+  additionalCompilerArguments: {}
+  platformArchitecture:
+    Android: 0
+  scriptingBackend:
+    Android: 0
+    Standalone: 0
+  il2cppCompilerConfiguration:
+    Android: 0
+    Standalone: 0
+  il2cppCodeGeneration:
+    Android: 0
+  managedStrippingLevel:
+    Android: 1
+    Standalone: 0
+  incrementalIl2cppBuild:
+    Android: 1
+  suppressCommonWarnings: 1
+  allowUnsafeCode: 0
+  useDeterministicCompilation: 1
+  additionalIl2CppArgs:
+  scriptingRuntimeVersion: 1
+  gcIncremental: 1
+  gcWBarrierValidation: 0
+  apiCompatibilityLevelPerPlatform:
+    Android: 6
+    Standalone: 6
+  m_RenderingPath: 1
+  m_MobileRenderingPath: 1
+  m_DefaultShaderChunkSizeInMB: 16
+  m_DefaultShaderChunkCount: 0
+  m_EditorOnlyShaderChunkSizeInMB: 16
+  m_EditorOnlyShaderChunkCount: 0
+  platformDefaultShadowChunkSettings: {}
+  staticBatchingSettings:
+    maxJobsPerBatch: 8
+    maxVerticesPerBatch: 32000
+    maxIndicesPerBatch: 48000
+    useParallelJobs: 1
+  m_EditorCloudServicesSettings:
+    m_CollabEnabled: 0
+    m_PackagesEnabled: 0
