@@ -1,0 +1,2 @@
+import{e,R as t,d as i}from"./index-gCZdN4BF.js";class o extends e{constructor(a){super(a),this.animationToPause=this.registerDataInput("animationToPause",t)}_execute(a){this.animationToPause.getValue(a).pause(),this.out._activateSignal(a)}getClassName(){return"FlowGraphPauseAnimationBlock"}}i("FlowGraphPauseAnimationBlock",o);export{o as FlowGraphPauseAnimationBlock};
+//# sourceMappingURL=flowGraphPauseAnimationBlock-D3ypohOO.js.map
