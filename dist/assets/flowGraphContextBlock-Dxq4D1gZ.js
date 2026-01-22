@@ -1,0 +1,2 @@
+import{F as s,R as t,b as a,d as r}from"./index-gCZdN4BF.js";class i extends s{constructor(e){super(e),this.userVariables=this.registerDataOutput("userVariables",t),this.executionId=this.registerDataOutput("executionId",a)}_updateOutputs(e){this.userVariables.setValue(e.userVariables,e),this.executionId.setValue(e.executionId,e)}serialize(e){super.serialize(e)}getClassName(){return"FlowGraphContextBlock"}}r("FlowGraphContextBlock",i);export{i as FlowGraphContextBlock};
+//# sourceMappingURL=flowGraphContextBlock-Dxq4D1gZ.js.map

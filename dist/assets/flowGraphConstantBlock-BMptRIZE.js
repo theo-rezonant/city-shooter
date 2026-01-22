@@ -1,0 +1,2 @@
+import{F as s,D as e,G as u,d as o}from"./index-gCZdN4BF.js";class l extends s{constructor(t){super(t),this.config=t,this.output=this.registerDataOutput("output",e(t.value))}_updateOutputs(t){this.output.setValue(this.config.value,t)}getClassName(){return"FlowGraphConstantBlock"}serialize(t={},a=u){super.serialize(t),a("value",this.config.value,t.config)}}o("FlowGraphConstantBlock",l);export{l as FlowGraphConstantBlock};
+//# sourceMappingURL=flowGraphConstantBlock-BMptRIZE.js.map
