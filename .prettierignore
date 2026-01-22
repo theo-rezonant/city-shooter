@@ -1,0 +1,9 @@
+node_modules
+dist
+*.glb
+*.fbx
+*.jpg
+*.jpeg
+*.png
+*.gif
+coverage
